@@ -10,7 +10,7 @@ Welcome to the **Coeffe Trace** project! This backend application serves as a br
 - [API Endpoints](#api-endpoints)
 - [Docker Setup](#docker-setup)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -102,9 +102,6 @@ To run the application using Docker, follow these steps:
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you find any bugs or have suggestions for improvements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
